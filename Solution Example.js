@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+  <title>Заголовок</title>
   <style>
     table {
       border-collapse: collapse;
