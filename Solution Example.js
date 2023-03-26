@@ -2,6 +2,7 @@
 <html>
 <head>
   <title>Заголовок</title>
+<img src="https://old.bigenc.ru/media/2018/01/30/1235931534/36359.jpg">
   <style>
     table {
       border-collapse: collapse;
